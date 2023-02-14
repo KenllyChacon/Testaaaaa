@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/idArgentina"
+        android:icon="@drawable/ic_360_24"
+        android:title="@string/fragment_argentina" />
+
+    <item
+        android:id="@+id/idFrancia"
+        android:icon="@drawable/ic_360_24"
+        android:title="@string/fragment_francia" />
+</menu>
